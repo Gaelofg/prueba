@@ -28,3 +28,7 @@ def validar3x3(tablero,numero,pos):
     return False
  return True
 print(validar3x3(tablero, 4, (4,9)))
+
+
+
+la none es la mera vega
