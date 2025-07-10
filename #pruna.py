@@ -30,5 +30,5 @@ def validar3x3(tablero,numero,pos):
 print(validar3x3(tablero, 4, (4,9)))
 
 
-
+dabjahdbjabxkawdbbqaxndwuevhfcxdwvhwbvfe 
 la none es la mera vega
